@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{
+    background-color: #a73f3f;
+    font-family: 'Roboto', sans-serif;
+}
+h1{ 
+    color: #0c0c0c;
+    text-align: justify;
+}
+h2{ 
+    color: #0c0c0c;
+}
+h1#learn{
+    background-color: #d6da07;
+    padding: 10px;
+    text-align: center;
+}
